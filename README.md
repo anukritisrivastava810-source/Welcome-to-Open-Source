@@ -56,6 +56,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+        td align="center">
+                <a href="https://github.com/anukritisrivastava810-source">
+                    <img src="https://avatars.githubusercontent.com/u/229166379?s=96&v=4" width="100px;"
+                        alt="Anukriti Srivastava" />
+                    <br />
+                    <sub>
+                        <b>Anukriti Srivastava</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
